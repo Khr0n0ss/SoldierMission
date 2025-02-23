@@ -7,6 +7,7 @@ ToDo Liste :
 - Porte avec panneaux indicatif
 - Caméra vision focus
 - ascenseur crash bandicout
+- Mur qui se cache lorsque l'attacheur de la caméra chevauche
 
 Finish :
 - FallDamage
