@@ -8,8 +8,7 @@ ToDo Liste :
 - Caméra vision focus
 - Faire des dégats répété avec Linetrace
 - Collectible d'invincibilité
-- HP Flottant des adversaires (affichez lorsque le personnage s'approche)
-- adversaires
+
 
 Finish :
 - FallDamage
@@ -18,3 +17,5 @@ Finish :
 - Mur qui se cache lorsque l'attacheur de la caméra chevauche
 - ascenseur crash bandicout
 - Faire flashez un objet
+- HP Flottant des adversaires (affichez lorsque le personnage s'approche)
+- adversaires
