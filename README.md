@@ -5,7 +5,6 @@ Developed with Unreal Engine 5
 ## ToDo Liste :
 - Caméra vision focus
 - Collectible d'invincibilité
-- cutscene
 
 ## Finish :
 - FallDamage
@@ -29,3 +28,4 @@ Developed with Unreal Engine 5
 - BP_HiddenWall
 - BP_Elevator
 - BP_Ball
+- cutscene
