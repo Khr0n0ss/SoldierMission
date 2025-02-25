@@ -3,11 +3,8 @@
 Developed with Unreal Engine 5
 
 ## ToDo Liste :
-- Finir la grenade
-- Pour la grenade : Essayer de faire une condition : si l'animation est terminer alors vrai sinon faux
 - Caméra vision focus
 - Collectible d'invincibilité
-- cutscene
 
 ## Finish :
 - FallDamage
@@ -19,6 +16,9 @@ Developed with Unreal Engine 5
 - HP Flottant des adversaires (affichez lorsque le personnage s'approche)
 - adversaires
 - Faire des dégats répété avec Linetrace
+- Finir la grenade
+- Pour la grenade : Essayer de faire une condition : si l'animation est terminer alors vrai sinon faux
+- cutscene
 
 ## Commentaire :
 - BP_IA
@@ -28,3 +28,12 @@ Developed with Unreal Engine 5
 - BP_HUD
 - BP_HiddenWall
 - BP_Elevator
+- BP_Ball
+- BP_Lamp
+- BP_IA_Droite
+- BP_IA_Gauche
+- BP_Collectible
+- BP_Door
+- BP_Light
+- BP_Stairs
+- BP_TPSMap
