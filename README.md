@@ -3,8 +3,6 @@
 Developed with Unreal Engine 5
 
 ## ToDo Liste :
-- Finir la grenade
-- Pour la grenade : Essayer de faire une condition : si l'animation est terminer alors vrai sinon faux
 - Caméra vision focus
 - Collectible d'invincibilité
 - cutscene
@@ -19,6 +17,8 @@ Developed with Unreal Engine 5
 - HP Flottant des adversaires (affichez lorsque le personnage s'approche)
 - adversaires
 - Faire des dégats répété avec Linetrace
+- Finir la grenade
+- Pour la grenade : Essayer de faire une condition : si l'animation est terminer alors vrai sinon faux
 
 ## Commentaire :
 - BP_IA
