@@ -18,6 +18,7 @@ Developed with Unreal Engine 5
 - Faire des dégats répété avec Linetrace
 - Finir la grenade
 - Pour la grenade : Essayer de faire une condition : si l'animation est terminer alors vrai sinon faux
+- cutscene
 
 ## Commentaire :
 - BP_IA
@@ -28,4 +29,11 @@ Developed with Unreal Engine 5
 - BP_HiddenWall
 - BP_Elevator
 - BP_Ball
-- cutscene
+- BP_Lamp
+- BP_IA_Droite
+- BP_IA_Gauche
+- BP_Collectible
+- BP_Door
+- BP_Light
+- BP_Stairs
+- BP_TPSMap
