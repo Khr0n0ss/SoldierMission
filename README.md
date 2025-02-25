@@ -10,7 +10,7 @@ Developed with Unreal Engine 5
 - Collectible d'invincibilité
 - cutscene
 
-Finish :
+## Finish :
 - FallDamage
 - Porte
 - Lampadaire
@@ -19,3 +19,11 @@ Finish :
 - Faire flashez un objet
 - HP Flottant des adversaires (affichez lorsque le personnage s'approche)
 - adversaires
+
+## Commentaire :
+- BP_IA
+- BP_IA_huda
+- BP_TPS
+- BPC_LineTrace
+- BP_HUD
+- BP_HiddenWall
